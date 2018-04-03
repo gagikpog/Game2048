@@ -1,0 +1,8 @@
+.vs/
+2048.VC.db
+2048.VC.VC.opendb
+2048/Debug/
+2048/Release/
+*.metagen
+*.pdb
+desktop.ini
