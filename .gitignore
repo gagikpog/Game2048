@@ -6,3 +6,6 @@
 *.metagen
 *.pdb
 desktop.ini
+Gs2.div
+Debug/
+Release/
